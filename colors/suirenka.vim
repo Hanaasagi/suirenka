@@ -38,7 +38,6 @@ if &t_Co > 255
   hi Normal       ctermfg=252 ctermbg=233
   hi CursorLine               ctermbg=234   cterm=none
   hi CursorLineNr ctermfg=208               cterm=none
- 
 
   hi Boolean         ctermfg=47
   hi Character       ctermfg=130
@@ -127,5 +126,4 @@ if &t_Co > 255
   hi NonText         ctermfg=59
 
   hi SpecialKey      ctermfg=59
-
 endif
