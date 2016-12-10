@@ -8,7 +8,7 @@ Maybe add following code in your vimrc at least
 
     " syntax
     syntax on
-    " support 256 colors in Lion terminal
+    " support 256 colors in terminal
     set t_Co=256
     " colorscheme
-    colorscheme molokai
+    colorscheme suirenka
